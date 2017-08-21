@@ -172,3 +172,47 @@ footer {
     margin-left: 5%;
 
 }
+
+/*---------For tablets and smaller screens-----------------------*/
+@media only screen and (min-width: 1200px) and (max-width: 1450px) {
+
+logo {
+    margin-left: 44%;
+}
+
+#cognomineLogo {
+    margin-top: 1%;
+    margin-left: 35%;
+}    
+    
+li {
+    margin-left: 10%;
+}    
+    
+li a {
+    padding: 10px 8px;
+}
+
+}
+
+/*---------For tablets and smaller screens-----------------------*/
+@media only screen and (min-width: 800px) and (max-width: 1200px) {
+
+logo {
+    margin-left: 44%;
+}
+
+#cognomineLogo {
+    margin-top: 1%;
+    margin-left: 34%;
+}    
+    
+li {
+    margin-left: 9%;
+}    
+    
+li a {
+    padding: 10px 8px;
+}
+
+}
